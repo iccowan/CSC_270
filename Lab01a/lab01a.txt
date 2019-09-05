@@ -1,0 +1,42 @@
+Ian Cowan
+Lab01a
+
+1. "ls" only shows file and directory names, where as "ls -l" shows file
+   and directory names along with other information
+   (file sizes, owner name, group name, etc.)
+
+2. -a: Shows all files, including hidden files
+   -G: Don't show group names in long listing (used by -lG)
+   -h: Show human readable format in long listing (used by -lh)
+   -o: Same as -lG; shows long listing without group names
+   -m: Fills width with comma separated list of files/directories
+
+3. An absolute pathname is the entire path of the file
+   "/home/ian.cowan/CSC270/lab01a.txt" whereas a relative pathname is relative
+   to the directory you are currently located in (if I'm in /home/ian.cowan
+   I can type "less CSC270/lab01a.txt" to view the file)
+
+4. "cd .."
+
+5. Underscores are better for naming files
+
+6. You can use "which" to locate the location of the python binary interpreter
+   "which python" outputs "/usr/bin/python"
+
+7. "less" allows you to view text files
+
+8. Exit less by pressing "q"
+
+9. Square brackets denote optional items. "|" denotes mutually exclusive items
+
+10. "ls *.py"; this process is called using a wildcard
+
+11. You would use output redirection. The command would be "du > du.txt"
+    - ">>" can also be used to append to a file rather than overwrite the file
+
+12. "kill" will forcefully stop a process from running
+
+13. Pipelines are when you connect two commands together using "|", that is
+    taking the output of the first command and using it as the input of
+    the second command and running them one after another. These allow some
+    very powerful things to be done from the command line
