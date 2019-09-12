@@ -185,5 +185,8 @@ Otherwise, if there is no room in the list or if the insert position occured aft
    {
       // Test everything
       test();
+      
+      // Done
+      System.out.println("IntList is working correctly.");
    }
 }
