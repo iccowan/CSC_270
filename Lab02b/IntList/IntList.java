@@ -1,6 +1,6 @@
 // Timmy's IntList class
 
-package Lab02b.IntList;
+package IntList;
 
 public class IntList
 {
@@ -99,7 +99,7 @@ Otherwise, if there is no room in the list or if the insert position occured aft
       size++;
       return true;
    }
-
+/*
    public static void test()
    {
       // Create a new list of maxLength 5
@@ -192,4 +192,6 @@ Otherwise, if there is no room in the list or if the insert position occured aft
       // Done
       System.out.println("IntList is working correctly.");
    }
+   
+*/
 }

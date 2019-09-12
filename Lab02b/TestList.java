@@ -1,6 +1,8 @@
 // Ian Cowan
 // TestList
 
+import IntList.IntList;
+
 public class TestList
 {
    // Tests the IntList class
@@ -91,5 +93,7 @@ public class TestList
    public static void main(String[] args)
    {
       testIntList();
+      
+      System.out.println("Everything tested successfully!");
    }
 }
