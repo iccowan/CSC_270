@@ -1,6 +1,6 @@
 // Timmy's IntList class
 
-package Lab02b.IntList;
+package Lab02b;
 
 public class IntList
 {

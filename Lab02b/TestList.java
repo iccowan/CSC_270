@@ -1,7 +1,8 @@
 // Ian Cowan
 // TestList
 
-import IntList.IntList;
+package Lab02b;
+import Lab02b.IntList;
 
 public class TestList
 {
