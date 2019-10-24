@@ -72,7 +72,7 @@ set the "paint" for the paintbrush
       }
       else if(mode == 2 || mode == 3)
       {
-         this.paintFill(mesh, x, y, maxXY, startPaint);
+         this.pattern2(mesh, x, y, maxXY, startPaint);
       }
       else if (mode==4)
       {
