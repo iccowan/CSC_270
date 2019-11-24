@@ -1,0 +1,217 @@
+=== BFS ===
+--- Length 1 ---
+Average Time (ms): 0
+Average Time (sec): 0
+Average Node Visits: 2
+Average Length of Queue/Stack: 8
+--- Length 2 ---
+Average Time (ms): 0
+Average Time (sec): 0
+Average Node Visits: 11
+Average Length of Queue/Stack: 33
+--- Length 3 ---
+Average Time (ms): 0
+Average Time (sec): 0
+Average Node Visits: 63
+Average Length of Queue/Stack: 189
+--- Length 4 ---
+Average Time (ms): 0
+Average Time (sec): 0
+Average Node Visits: 230
+Average Length of Queue/Stack: 691
+--- Length 5 ---
+Average Time (ms): 1
+Average Time (sec): 0
+Average Node Visits: 1102
+Average Length of Queue/Stack: 3306
+--- Length 6 ---
+Average Time (ms): 4
+Average Time (sec): 0
+Average Node Visits: 5199
+Average Length of Queue/Stack: 15597
+--- Length 7 ---
+Average Time (ms): 9
+Average Time (sec): 0
+Average Node Visits: 17488
+Average Length of Queue/Stack: 52464
+--- Length 8 ---
+Average Time (ms): 23
+Average Time (sec): 0
+Average Node Visits: 50257
+Average Length of Queue/Stack: 150771
+--- Length 9 ---
+Average Time (ms): 199
+Average Time (sec): 0
+Average Node Visits: 246866
+Average Length of Queue/Stack: 740598
+--- Length 10 ---
+Average Time (ms): 1470
+Average Time (sec): 1
+Average Node Visits: 648570
+Average Length of Queue/Stack: 1945710
+--- Length 11 ---
+Average Time (ms): 6963
+Average Time (sec): 6
+Average Node Visits: 3794297
+Average Length of Queue/Stack: 11382891
+--- Length 12 ---
+Out of Memory
+--- Length 13 ---
+Out of Memory
+--- Length 14 ---
+Out of Memory
+
+=== DLS ===
+--- Length 1 ---
+Average Time (ms): 1
+Average Time (sec): 0
+Average Node Visits: 2
+Average Length of Queue/Stack: 1
+--- Length 2 ---
+Average Time (ms): 0
+Average Time (sec): 0
+Average Node Visits: 12
+Average Length of Queue/Stack: 2
+--- Length 3 ---
+Average Time (ms): 0
+Average Time (sec): 0
+Average Node Visits: 29
+Average Length of Queue/Stack: 5
+--- Length 4 ---
+Average Time (ms): 0
+Average Time (sec): 0
+Average Node Visits: 148
+Average Length of Queue/Stack: 7
+--- Length 5 ---
+Average Time (ms): 0
+Average Time (sec): 0
+Average Node Visits: 352
+Average Length of Queue/Stack: 9
+--- Length 6 ---
+Average Time (ms): 0
+Average Time (sec): 0
+Average Node Visits: 352
+Average Length of Queue/Stack: 12
+--- Length 7 ---
+Average Time (ms): 2
+Average Time (sec): 0
+Average Node Visits: 5813
+Average Length of Queue/Stack: 15
+--- Length 8 ---
+Average Time (ms): 15
+Average Time (sec): 0
+Average Node Visits: 49502
+Average Length of Queue/Stack: 16
+--- Length 9 ---
+Average Time (ms): 44
+Average Time (sec): 0
+Average Node Visits: 136883
+Average Length of Queue/Stack: 18
+--- Length 10 ---
+Average Time (ms): 363
+Average Time (sec): 0
+Average Node Visits: 999377
+Average Length of Queue/Stack: 12
+--- Length 11 ---
+Average Time (ms): 945
+Average Time (sec): 0
+Average Node Visits: 2397480
+Average Length of Queue/Stack: 13
+--- Length 12 ---
+Average Time (ms): 1025
+Average Time (sec): 1
+Average Node Visits: 2397482
+Average Length of Queue/Stack: 16
+--- Length 13 ---
+Average Time (ms): 21676
+Average Time (sec): 21
+Average Node Visits: 47136727
+Average Length of Queue/Stack: 17
+--- Length 14 ---
+Average Time (ms): 23077
+Average Time (sec): 23
+Average Node Visits: 47136729
+Average Length of Queue/Stack: 20
+
+=== IDS ===
+--- Length 1 ---
+Average Time (ms): 0
+Average Time (sec): 0
+Average Node Visits: 2
+Average Length of Queue/Stack: 1
+--- Length 2 ---
+Average Time (ms): 0
+Average Time (sec): 0
+Average Node Visits: 16
+Average Length of Queue/Stack: 2
+--- Length 3 ---
+Average Time (ms): 0
+Average Time (sec): 0
+Average Node Visits: 53
+Average Length of Queue/Stack: 5
+--- Length 4 ---
+Average Time (ms): 0
+Average Time (sec): 0
+Average Node Visits: 256
+Average Length of Queue/Stack: 7
+--- Length 5 ---
+Average Time (ms): 0
+Average Time (sec): 0
+Average Node Visits: 800
+Average Length of Queue/Stack: 9
+--- Length 6 ---
+Average Time (ms): 0
+Average Time (sec): 0
+Average Node Visits: 2164
+Average Length of Queue/Stack: 12
+--- Length 7 ---
+Average Time (ms): 3
+Average Time (sec): 0
+Average Node Visits: 13085
+Average Length of Queue/Stack: 15
+--- Length 8 ---
+Average Time (ms): 21
+Average Time (sec): 0
+Average Node Visits: 78618
+Average Length of Queue/Stack: 16
+--- Length 9 ---
+Average Time (ms): 76
+Average Time (sec): 0
+Average Node Visits: 253379
+Average Length of Queue/Stack: 18
+--- Length 10 ---
+Average Time (ms): 498
+Average Time (sec): 0
+Average Node Visits: 1465397
+Average Length of Queue/Stack: 12
+--- Length 11 ---
+Average Time (ms): 1578
+Average Time (sec): 1
+Average Node Visits: 4261600
+Average Length of Queue/Stack: 13
+--- Length 12 ---
+Average Time (ms): 3818
+Average Time (sec): 3
+Average Node Visits: 9854006
+Average Length of Queue/Stack: 16
+--- Length 13 ---
+Average Time (ms): 33770
+Average Time (sec): 33
+Average Node Visits: 76962871
+Average Length of Queue/Stack: 17
+--- Length 14 ---
+Average Time (ms): 76109
+Average Time (sec): 76
+Average Node Visits: 166441357
+Average Length of Queue/Stack: 20
+
+=== Arbitrary BFS ===
+Out of Memory
+
+=== Arbitrary IDS ===
+--- Length 16 ---
+Average Time (ms): 4149794
+Average Time (sec): 4149
+Average Node Visits: 7541612009
+Average Length of Queue/Stack: 23
+
