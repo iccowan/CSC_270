@@ -4,10 +4,10 @@
 *.gradle.kts    text diff=java
 
 # These files are text and should be normalized (Convert crlf => lf)
-*.css           text diff=css
+*.css           text
 *.df            text
-*.htm           text diff=html
-*.html          text diff=html
+*.htm           text
+*.html          text
 *.js            text
 *.jsp           text
 *.jspf          text
