@@ -1,21 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f333eb68-1e4f-43f8-b2fd-f72c0c810838" name="Default Changelist" comment="" />
+    <list default="true" id="f333eb68-1e4f-43f8-b2fd-f72c0c810838" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkList.java" beforeDir="false" afterPath="$PROJECT_DIR$/LinkList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/Node.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1UnxD19g51dVHIr1N9pZv72CtUQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -47,10 +60,26 @@
       <updated>1576006036515</updated>
       <workItem from="1576006039797" duration="3588000" />
       <workItem from="1576010665724" duration="530000" />
+      <workItem from="1576018814967" duration="472000" />
+      <workItem from="1576075095860" duration="11013000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576084284650">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="184" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1576084284650" />
+    <state x="463" y="271" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576075172129">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="463" y="271" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877@0.23.1440.877" timestamp="1576075172129" />
+    <state x="149" y="84" key="new project wizard" timestamp="1576075120221">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="149" y="84" key="new project wizard/0.23.1440.877@0.23.1440.877" timestamp="1576075120221" />
   </component>
 </project>

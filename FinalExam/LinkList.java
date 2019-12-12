@@ -9,11 +9,6 @@ public class LinkList<T>
         dummy.prev = dummy;
     }
 
-    private LinkList(Node<T> node) // 0(1) time complexity
-    {
-        dummy = node;
-    }
-
     public void append(T val) // 0(1) time complexity
     {
         Node<T> newNode = new Node<T>(val);
@@ -36,7 +31,18 @@ public class LinkList<T>
         } while(nextSwitch != dummy);
     }
 
-    public LinkList<T> shallowCopy() { return new LinkList<T>(dummy); } // 0(1) time complexity
+    public LinkList<T> shallowCopy() // 0(n) time complexity
+    {
+        LinkList<T> copy = new LinkList<T>();
+        Node<T> current = dummy.next;
+        while(current != dummy)
+        {
+            copy.append(current.val);
+            current = current.next;
+        }
+
+        return copy;
+    }
 
     public LinkList<T> deepCopy() // 0(n) time complexity
     {
@@ -44,7 +50,7 @@ public class LinkList<T>
         Node<T> current = dummy.next;
         while(current != dummy)
         {
-            copy.append(current.val);
+            copy.append((T) current.val.clone());
             current = current.next;
         }
 
